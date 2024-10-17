@@ -1,8 +1,0 @@
-informacion en base al video
-
-en este proyecto se tiene como fin el poder establecer la administracion en cuanto a la gestion de pacientes para un hospital o centro de salud
-en cuanto a el como se plantea el trabajo se tiene aparte de el poder crear un sistema de inicio de sesion el cual se tiene tokens de los cuales 
-se requiere para poder acceder a las funciones de adminstracion como tal.
-:D
-
-https://www.youtube.com/watch?v=3ERq4KUsNEk&t=993s&ab_channel=Garajedeideas
