@@ -13,6 +13,3 @@ unifica en una tabla central llamada roles asiganados.
 Junto para poder esclarecer mas las dudas en base a al comprension del funcionamiento del proyecto se presentara el diagrama conceptual de base de datos.
 
 ![api_pacientes-Página-2](https://github.com/user-attachments/assets/1f27c749-4bd2-4cc4-8e3f-b0fb4a372f37)
-
-# Descripcion
-Para el proyecto se tienen a usa usar las entidades roles y usuarios para poder establecer que si son paciente o no. En cuanto a lo mencionado se tiene en cuenta el uso de autenticación para poder acceder a los datos, por ello se efectua un medio de inicio de sesion ene le cual el usuario se tiene que identificicar para el uso de este 
